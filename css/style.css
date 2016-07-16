@@ -1,0 +1,11 @@
+/* Fonts */
+@import 'https://fonts.googleapis.com/css?family=Montserrat:700';
+@import 'https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css';
+
+body {
+	font-family: font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Montserrat', sans-serif;
+}
